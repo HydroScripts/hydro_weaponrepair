@@ -13,6 +13,13 @@ Weapon repair benches for ox_inventory
 - ox_lib - https://github.com/overextended/ox_lib/releases
 - ox_inventory - https://github.com/overextended/ox_inventory/releases
 
+## Script Installation
+- Install all dependencies
+- Install ``hydro_weaponrepair``
+- Add ``ensure hydro_weaponrepair`` to your server.cfg
+- Configure the parts, locations, and blacklisted weapons
+- Restart your server and enjoy repair benches with``hydro_weaponrepair``
+
 ---
 
 ### Support Discord
