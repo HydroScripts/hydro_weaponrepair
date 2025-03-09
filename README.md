@@ -10,8 +10,8 @@ Weapon reapir bench for ox_inventory utilizing ox_lib and ox_target
 - Bench prop customization
 
 ## Dependencies
-- ox_lib - [https://github.com/overextended/ox_lib/releases](https://github.com/overextended/ox_lib/releases)
-- ox_target - [https://github.com/overextended/ox_target/releases](https://github.com/overextended/ox_target/releases)
+- ox_lib - https://github.com/overextended/ox_lib/releases
+- ox_target - https://github.com/overextended/ox_target/releases
 
 ---
 
